@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"productVersion": "1.0",
+"dataUrl": "Cool game.data.unityweb",
+"asmCodeUrl": "Cool game.asm.code.unityweb",
+"asmMemoryUrl": "Cool game.asm.memory.unityweb",
+"asmFrameworkUrl": "Cool game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
